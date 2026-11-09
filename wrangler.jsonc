@@ -1,4 +1,5 @@
 {
   "name": "typechem",
+  "compatibility_date":"2026-11-04",
   "assets": { "directory": "./" }
 }
